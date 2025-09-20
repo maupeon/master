@@ -15,3 +15,6 @@ Mauricio Peón García
 ## Duración del Máster:
 
 19 de Septiembre de 2025 - 19 de Septiembre de 2026
+
+![Descripción de la imagen]([/images/picture.jpg](https://www.ucm.es/themes/ucm24/media/img/logo.svg))
+
