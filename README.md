@@ -1,6 +1,7 @@
 # Máster en Ciencia de Datos, Big Data & IA
 
 ![](https://www.ucm.es/themes/ucm24/media/img/logo.svg)
+<img src="[ruta/imagen.png](https://www.ucm.es/themes/ucm24/media/img/logo.svg)" alt="Texto alternativo" width="300"/>
 
 
 En este repositorio se podrán ver todos los archivos y actividades del Máster en Ciencia de Datos, Big Data & IA en la Universidad Complutense de Madrid.
